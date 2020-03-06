@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# ASDAS
+Automated Satellite Data Analysis System
 
-You can use the [editor on GitHub](https://github.com/simplysudhanshu/ASDAS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Environment Setup
+- [Python 3.6 (minimum)](https://www.python.org/downloads/)
+- [PyCharm IDE (preferably)](https://www.jetbrains.com/pycharm/)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Python Packages
+1. [Pillow](https://pypi.org/project/Pillow/)
+2. [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
+3. [Numpy](https://numpy.org/)
+4. [Tkinter](https://www.geeksforgeeks.org/python-gui-tkinter/)
 ```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The project is designed for processing on "Sentinel 2 Satellite data feed" to improve the classification accuracy of 
+Land Use Land Cover applications.
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simplysudhanshu/ASDAS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
